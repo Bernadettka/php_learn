@@ -21,7 +21,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 </head>
 <body>
 
-    <h2>Zadaj svoj vek</h2>
+    <h2>Zadaj svoj vek pls</h2>
 
     <form method="POST">
         <input type="number" name="vek" required>
